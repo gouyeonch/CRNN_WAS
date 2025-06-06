@@ -1,0 +1,8 @@
+torch>=1.10
+torchaudio>=0.10
+numpy
+librosa
+soundfile
+sounddevice
+fastapi
+uvicorn[standard]
