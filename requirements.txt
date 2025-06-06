@@ -6,3 +6,4 @@ soundfile
 sounddevice
 fastapi
 uvicorn[standard]
+python-multipart
